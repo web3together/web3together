@@ -39,7 +39,7 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 * [EatTheBlocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
 
-### Web3 dApps
+### Web3 Decentralized Apps (dApps)
 
 #### General
 
@@ -78,6 +78,7 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [Encode Club](https://www.encode.club/)
 * [CryptoDevHub](https://cryptodevhub.io/)
 * [Questbook](https://www.questbook.app/)
+* [useWeb3](https://www.useweb3.xyz/)
 
 ## Contributing
 
