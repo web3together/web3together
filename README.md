@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Follow us on: <a href="https://twitter.com/web3together">Twitter</a> -  <a href="https://www.facebook.com/Web3Together">Facebook</a> - Say hi to us  at: <a href="mailto:hello@web3together.com">hello@web3together.com</a>
+Follow us on: <a href="https://twitter.com/web3together">Twitter</a> -  <a href="https://www.facebook.com/Web3Together">Facebook</a> - <a href="https://t.me/TheWeb3Together">Telegram</a> - Say hi to us  at: <a href="mailto:hello@web3together.com">hello@web3together.com</a>
 </p>
 <br>
 
