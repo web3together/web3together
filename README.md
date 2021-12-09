@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Follow us on: <a href="https://twitter.com/web3together">Twitter</a> -  <a href="https://www.facebook.com/Web3Together">Facebook</a> - <a href="https://t.me/TheWeb3Together">Telegram</a> - Say hi to us  at: <a href="mailto:hello@web3together.com">hello@web3together.com</a>
+Follow us on: <a href="https://twitter.com/web3together">Twitter</a> |  <a href="https://www.facebook.com/Web3Together">Facebook</a> | <a href="https://t.me/TheWeb3Together">Telegram</a> | Say hi to us  at: <a href="mailto:hello@web3together.com">hello@web3together.com</a>
 </p>
 <br>
 
@@ -38,6 +38,15 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [Coin Bureau](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
 * [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 * [EatTheBlocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
+* [School of Block](https://www.ledger.com/academy/school-of-block)
+* [Patrick Collins](https://www.youtube.com/c/PatrickCollins/featured)
+* [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+
+#### Podcasts
+
+* [DAOn the Rabbit Hole](https://podcasts.apple.com/us/podcast/daon-the-rabbit-hole/id1596150103)
+* [On The Ledger](https://www.ledger.com/the-ledger-podcast)
+* [Bankless](https://podcasts.apple.com/us/podcast/bankless/id1499409058)
 
 ### Web3 Decentralized Apps (dApps)
 
@@ -72,6 +81,11 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [Generate your own epic NFT collection and ship a Web3 app to let friends mint them](https://buildspace.so/build-nfts) by buildspace
 * [The NFT Handbook](https://www.amazon.com/NFT-Handbook-Create-Non-Fungible-Tokens/dp/111983838X) by Matt Fortnow, QuHarrison Terry
 
+#### DAO
+
+* [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+* [DAOs & Creators: Resources to Get Started Today](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k)
+
 #### Communities
 
 * [buildspace](https://buildspace.so/)
@@ -79,6 +93,13 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [CryptoDevHub](https://cryptodevhub.io/)
 * [Questbook](https://www.questbook.app/)
 * [useWeb3](https://www.useweb3.xyz/)
+* [BanklessDAO](https://www.bankless.community/)
+
+#### Links
+
+* [DefiSummer: Designing Tokenomics](https://www.youtube.com/watch?v=KCMRgK3A_Y4)
+* [Working in Web3: The Handbook](https://web3.smsunarto.com/)
+* [The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
 
 ## Contributing
 
