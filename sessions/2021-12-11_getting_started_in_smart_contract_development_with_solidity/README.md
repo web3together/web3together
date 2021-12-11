@@ -1,4 +1,7 @@
 # Getting Started in Smart Contract Development with Solidity
+
+This guide is prepared by @BunHouth.
+
 ## [Solidity](https://docs.soliditylang.org/)
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 Solidity is a [curly-bracket language](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Curly-bracket_languages). It is influenced by C++, Python and JavaScript, and is designed to target the Ethereum Virtual Machine (EVM).
