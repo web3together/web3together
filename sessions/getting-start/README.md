@@ -74,12 +74,12 @@ contract HelloWeb3Together {
 
 ```
 
-__Step 3: Compile “Web3Together” with the following command.__
+__Step 3: Compile “HelloWeb3Together” with the following command.__
 ```
 truffle compile
 ```
 This compiles the original code into Ethereum bytecode. If everything goes well, it will create .json file under build/contracts folder.
-__Step 4: Deploy “Web3Together” contract.__
+__Step 4: Deploy “HelloWeb3Together” contract.__
 1. Create `2_deploy_contracts.js` under migrations folders. Truffle is run following order
 2. Copy and past the following deploying content into the “2_deploy_contracts.js”.
 ```
