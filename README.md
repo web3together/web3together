@@ -48,6 +48,10 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [On The Ledger](https://www.ledger.com/the-ledger-podcast)
 * [Bankless](https://podcasts.apple.com/us/podcast/bankless/id1499409058)
 
+#### Links
+
+* [Decrypt Learn](https://decrypt.co/learn)
+
 ### Web3 Decentralized Apps (dApps)
 
 #### General
