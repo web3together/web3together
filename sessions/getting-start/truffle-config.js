@@ -60,6 +60,11 @@ module.exports = {
       timeoutBlocks: 200,
       skipDryRun: true,
     },
+    goerli: {
+      provider: () => new HDWalletProvider(MNEMONIC, process.env.RPC_URL),
+      network_id: 5,
+      timeoutBlocks: 200,
+    },
     // Another network with more advanced options...
     // advanced: {
     // port: 8777,             // Custom port
