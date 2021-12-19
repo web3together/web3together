@@ -51,6 +51,7 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 #### Links
 
 * [Decrypt Learn](https://decrypt.co/learn)
+* [KOOMPI AMA | Blockchain Series](https://www.youtube.com/playlist?list=PLjhxEYHz6zkdcSxQv9ULwnimRjcWKC9l5)
 
 ### Web3 Decentralized Apps (dApps)
 
