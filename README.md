@@ -94,6 +94,7 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 #### Communities
 
 * [buildspace](https://buildspace.so/)
+* [Web3 University](https://www.web3.university/)
 * [Encode Club](https://www.encode.club/)
 * [CryptoDevHub](https://cryptodevhub.io/)
 * [Questbook](https://www.questbook.app/)
