@@ -66,8 +66,9 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 #### Solidity
 
 * [Build a Web3 App on Ethereum with Solidity + Smart Contracts](https://buildspace.so/solidity) by buildspace
-* [Solidity by Example](https://solidity-by-example.org/)
 * [Crypto Market Pool - Solidity](https://cryptomarketpool.com/getting-started-with-solidity/)
+* [Solidity by Example](https://solidity-by-example.org/)
+* [Solidity Examples](https://github.com/samnang/solidity-examples)
 * [Solidity, Blockchain, and Smart Contract Course](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/) by freeCodeCamp.org
 * [Learn Solidity basics](https://www.youtube.com/playlist?list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo) by HashLips
 * [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) by Stephen Grider
@@ -109,7 +110,6 @@ Welcome to the Web3 Together community! Here you can connect with other develope
 * [DefiSummer: Designing Tokenomics](https://www.youtube.com/watch?v=KCMRgK3A_Y4)
 * [Working in Web3: The Handbook](https://web3.smsunarto.com/)
 * [The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
-* [Crypto Market Pool - Solidity Examples](https://github.com/samnang/cryptomarketpool-solidity)
 * [SpeedRunEthereum.com](https://speedrunethereum.com/)
 
 ## Contributing
