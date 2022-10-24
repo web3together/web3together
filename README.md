@@ -9,7 +9,10 @@ Follow us on: <a href="https://twitter.com/web3together">Twitter</a> |  <a href=
 
 Welcome to the Web3 Together community! Here you can connect with other developers and share knowledge about every part of blockchain development, including DeFi, NFTs, DAO, etc...
 
-### Join the [discussions](https://github.com/web3together/web3together/discussions) 💬
+### Join us on [discord](https://discord.gg/862vVabysH) 💬
+
+![TinySnap-2022-10-24-23 40 34](https://user-images.githubusercontent.com/131172/197580516-64dbcfd8-2a1a-4a98-94c0-f6ed085714af.png)
+
 
 ## Resources
 
